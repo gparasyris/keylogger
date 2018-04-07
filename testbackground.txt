@@ -1,0 +1,117 @@
+a Key Pressed
+s Key Pressed
+d Key Pressed
+f Key Pressed
+m Key Pressed
+k Key Pressed
+a Key Pressed
+s Key Pressed
+d Key Pressed
+f Key Pressed
+a Key Pressed
+s Key Pressed
+l Key Pressed
+; Key Pressed
+d Key Pressed
+f Key Pressed
+ENTER Key Pressed
+w Key Pressed
+e Key Pressed
+r Key Pressed
+k Key Pressed
+q Key Pressed
+2 Key Pressed
+3 Key Pressed
+r Key Pressed
+ENTER Key Pressed
+2 Key Pressed
+q Key Pressed
+ENTER Key Pressed
+L_SHIFT Key Pressed 
+A Key Pressed 
+E Key Pressed 
+K Key Pressed 
+L_SHIFT Key Released 
+ENTER Key Pressed
+d Key Pressed
+f Key Pressed
+a Key Pressed
+s Key Pressed
+d Key Pressed
+f Key Pressed
+ENTER Key Pressed
+a Key Pressed
+s Key Pressed
+d Key Pressed
+f Key Pressed
+a Key Pressed
+s Key Pressed
+d Key Pressed
+f Key Pressed
+a Key Pressed
+s Key Pressed
+d Key Pressed
+ENTER Key Pressed
+f Key Pressed
+s Key Pressed
+d Key Pressed
+a Key Pressed
+m Key Pressed
+f Key Pressed
+a Key Pressed
+s Key Pressed
+d Key Pressed
+ENTER Key Pressed
+f Key Pressed
+2 Key Pressed
+3 Key Pressed
+f Key Pressed
+l Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ENTER Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ENTER Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ENTER Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ENTER Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+L_CTRL Key Pressed 
+L_CTRL + c Key Pressed concurrently,  not exiting we are in background mode..
+c Key Pressed
+L_CTRL Key Released 
+ENTER Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+ESC Key Pressed
+ESC Key Pressed,  not exiting we are in background mode...
+; Key Pressed
+' Key Pressed
+e Key Pressed
+1 Key Pressed
+TAB Key Pressed
+ENTER Key Pressed
+R_SHIFT Key Pressed 
+L_SHIFT Key Pressed 
+L_ALT Key Pressed 
+R_ALT Key Pressed 
+L_CTRL Key Pressed 
+combination of keys pressed to exit child
